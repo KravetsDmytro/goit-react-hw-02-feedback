@@ -10,10 +10,11 @@
 
 
 .button {
-  padding: 5px 10px;
+  padding: 10px 20px;
+  color:azure;
   border: 2px solid #d8d3d3;
   border-radius: 5px;
-  background-color: #fff;
+  background-color: #ffa704;
   font-weight: 500;
   text-transform: capitalize;
   transition: all 250ms linear;
@@ -23,6 +24,6 @@
   .button:hover,
   .button:focus {
     background-color: #48a2c9;
-    color: #6b6b6b;
+    color: #353232;
     transition: all 250ms cubic-bezier(.17,.67,.84,.16);
   }
